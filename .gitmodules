@@ -4,3 +4,6 @@
 [submodule "pandamonium"]
 	path = pandamonium
 	url = git@github.com:dguest/pandamonium.git
+[submodule "_h5ls"]
+	path = _h5ls
+	url = git@github.com:dguest/_h5ls.git
