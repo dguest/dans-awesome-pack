@@ -1,0 +1,6 @@
+[submodule "git-fatlas"]
+	path = git-fatlas
+	url = git@github.com:dguest/git-fatlas.git
+[submodule "pandamonium"]
+	path = pandamonium
+	url = git@github.com:dguest/pandamonium.git
