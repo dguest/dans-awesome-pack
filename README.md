@@ -2,19 +2,16 @@ Dan's Awesome Pack
 ==================
 
 This is a list of Dan-tools that you might find useful. They are
-pretty bash-heavy because I like fast things and tab-complete. There
-are also python scripts, but I don't like dependencies, so nothing in
-here should depend on more than one library.
-
-I try to push my neat C++ and python stuff into other places, maybe
-I'll make a list of that somewhere else.
+pretty bash-heavy because I like fast things and tab-complete. I don't
+like dependencies, so nothing in here should depend on more than one
+library.
 
 Anyway, this contains:
 
  - `git-fatlas`: A utility to help with sparse checkouts. It's better
    than the other ones, I swear.
- - `_h5ls`: tab complete for h5ls. It's cool, cause it's not slow. God
-   ROOT is so slow...
+ - `_h5ls`: tab complete for h5ls. It's cool, cause it's not
+   slow. ROOT is so slow...
  - `pandamonium`: check yer grid jobs from yer laptop!
 
 At some point I'll add:
