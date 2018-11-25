@@ -7,3 +7,6 @@
 [submodule "_h5ls"]
 	path = _h5ls
 	url = git@github.com:dguest/_h5ls.git
+[submodule "mark-and-jump"]
+	path = mark-and-jump
+	url = git@github.com:dguest/mark-and-jump.git

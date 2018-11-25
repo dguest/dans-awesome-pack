@@ -13,9 +13,6 @@ Anyway, this contains:
  - `_h5ls`: tab complete for h5ls. It's cool, cause it's not
    slow. ROOT is so slow...
  - `pandamonium`: check yer grid jobs from yer laptop!
-
-At some point I'll add:
-
  - `mark-and-jump`: super dumb wrapper on `pushd` and `popd`, for
    hopping between a few directories.
 
