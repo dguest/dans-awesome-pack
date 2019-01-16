@@ -10,3 +10,6 @@
 [submodule "mark-and-jump"]
 	path = mark-and-jump
 	url = git@github.com:dguest/mark-and-jump.git
+[submodule "rucio-replicators"]
+	path = rucio-replicators
+	url = git@github.com:dguest/rucio-replicators.git
