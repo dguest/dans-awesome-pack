@@ -16,6 +16,7 @@ Anyway, this contains:
  - `mark-and-jump`: super dumb wrapper on `pushd` and `popd`, for
    hopping between a few directories.
  - `rucio-replicators`: simple function to make rucio replication easier.
+ - `git-tools`: misc git tools
 
 There's also a script to source all of them, it's called
 `setup.sh`. You can source it to get all the things.

@@ -13,3 +13,6 @@
 [submodule "rucio-replicators"]
 	path = rucio-replicators
 	url = git@github.com:dguest/rucio-replicators.git
+[submodule "git-tools"]
+	path = git-tools
+	url = git@github.com:dguest/git-tools.git

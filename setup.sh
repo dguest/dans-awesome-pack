@@ -7,6 +7,6 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null && pwd )"
 . $DIR/mark-and-jump/mark-and-jump.sh
 . $DIR/rucio-replicators/replicators.sh
 
-PATH+=:$DIR/pandamonium
+PATH+=:$DIR/pandamonium:$DIR/git-tools
 
 unset DIR
