@@ -16,3 +16,6 @@
 [submodule "git-tools"]
 	path = git-tools
 	url = git@github.com:dguest/git-tools.git
+[submodule "zfa-lxplus"]
+	path = zfa-lxplus
+	url = git@github.com:dguest/zfa.git
